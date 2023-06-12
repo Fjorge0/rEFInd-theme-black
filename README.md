@@ -5,3 +5,4 @@ A frankenstein of a lot of rEFInd themes because I was so indecisive I couldn't 
 * https://github.com/LightAir/darkmini - Func, OS, and Label icons
 * https://github.com/andersfischernielsen/rEFInd-minimal-black - Selection icons
 * https://github.com/bobafetthotmail/refind-theme-regular - Font
+* https://github.com/NixOS/nixos-artwork - NixOS icon
